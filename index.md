@@ -1,4 +1,4 @@
-## Welcome to GitHub Usamahs Page
+## Welcome to Usamahs GitHub Page
 
 You can use the [editor on GitHub](https://github.com/usamahjavaid/usamahjavaid.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
