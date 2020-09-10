@@ -3,7 +3,7 @@
 Hello, welcome to my progress in github page development
 
 ### About me
-My name is Usamah and i am 24 years old. I finished my Academy Profession (AP) Degree in Financial Controlling, and I tried working as an accountant for 1 year. I quickly found out that the profession wasn't for me. My twin brother introduced me to computer science, and I found it interesting. And now I am learning programming. I do suck at programming, but I am learning quickly thanks to my classmates and teachers. 
+My name is Usamah J.Iqbal and i am 24 years old. I finished my Academy Profession (AP) Degree in Financial Controlling, and I tried working as an accountant for 1 year. I quickly found out that the profession wasn't for me. My twin brother introduced me to computer science, and I found it interesting. And now I am learning programming. I do suck at programming, but I am learning quickly thanks to my classmates and teachers. 
 
 ```markdown
 Syntax highlighted code block
