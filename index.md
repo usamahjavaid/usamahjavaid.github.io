@@ -6,21 +6,19 @@ Hello, welcome to my progress in github page development
 My name is Usamah J.Iqbal and i am 24 years old. I finished my Academy Profession (AP) Degree in Financial Controlling, and I tried working as an accountant for 1 year. I quickly found out that the profession wasn't for me. My twin brother introduced me to computer science, and I found it interesting. And now I am learning programming. I do suck at programming, but I am learning quickly thanks to my classmates and teachers. 
 
 ```markdown
-Syntax highlighted code block
+// My first program
 
-# Header 1
-## Header 2
-### Header 3
+public class DisplayThreeNames1 {
+public static void main(String[] args) {
+System.out.println(" Welcome to Java ");
+System.out.println(" Learning java now ");
+System.out.println(" Programming is fun ");
+    }
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
