@@ -1,10 +1,8 @@
 ## Welcome to Usamahs GitHub Page
 
-You can use the [editor on GitHub](https://github.com/usamahjavaid/usamahjavaid.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, welcome to my progress in github page development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### About me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
