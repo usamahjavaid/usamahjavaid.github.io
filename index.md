@@ -24,8 +24,7 @@ System.out.println(" Programming is fun ");
 
 ### Programming task
 
-![Skærmbillede 2020-09-14 195619](https://user-images.githubusercontent.com/71014193/93120953-6cf15680-f6c4-11ea-8d4c-6f62f4a1aa34.png)
-
+https://github.com/usamahjavaid/usamahjavaid.github.io/issues/1#issue-701309391
 
 
 ### 
