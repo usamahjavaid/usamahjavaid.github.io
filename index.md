@@ -22,10 +22,10 @@ System.out.println(" Programming is fun ");
 ```
 
 
-### Piture of my programming tasks
+### Picture of my programming tasks
 ![Skærmbillede 2020-09-14 195619](https://user-images.githubusercontent.com/71014193/93120953-6cf15680-f6c4-11ea-8d4c-6f62f4a1aa34.png)
 
-
+Math problems are more difficult.
 
 
 
